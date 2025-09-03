@@ -89,7 +89,6 @@ Algunos proyectos incluyen **diagramas UML**, aunque no todos los códigos cuent
   - Generar y leer **CSV**.  
   - Buscar por DNI.  
 - Incluye **`Serializable`**, excepciones personalizadas (`DniParException`) y colecciones.  
-- Tiene menú general (`TestMenu`) para navegar opciones.  
-- ⚠️ **UML parcial (no coincide al 100% con el código)**.  
+- Tiene menú general (`TestMenu`) para navegar opciones.   
 
 ---
